@@ -1,0 +1,2 @@
+batari Basic, o “bB”, es el lenguaje utilizado en la creación de juegos de Atari 2600. bB es en realidad un lenguaje compilado que se ejecuta en una computadora, pero genera una carpeta binaria que puede leerse y ejecutarse en el emulador Atari 2600 o puede utilizarse para crear un cartucho que pueda funcionar en un Atari 2600 real. bB se ejecuta
+https://bataribasic.com/
